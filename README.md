@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meu Primeiro Repositório</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background: #f5f7fa;
+      color: #333;
+    }
+    .container {
+      text-align: center;
+      padding: 2rem 3rem;
+      border-radius: 16px;
+      background: #fff;
+      box-shadow: 0 16px 40px rgba(0,0,0,0.08);
+    }
+    h1 {
+      margin-bottom: 0.5rem;
+      color: #0077cc;
+    }
+    p {
+      margin: 0.5rem 0;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Bem-vindo ao Meu Primeiro Repositório</h1>
+    <p>Esta é a página inicial criada dentro do repositório.</p>
+    <p>Edite <code>index.html</code> para começar a construir seu site.</p>
+  </div>
+</body>
+</html>
